@@ -1,3 +1,7 @@
+[![Roast Your Own Agent](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?ref=gr3weejb)
+[![Rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/bintangputra777/roast-your-own-agent/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?ref=gr3weejb)
+[![Reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/bintangputra777/roast-your-own-agent/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda?ref=gr3weejb)
+
 # Roast Your Own Agent
 
 One original roast of my own AI agent, for make.fun's
